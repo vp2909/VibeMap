@@ -1,0 +1,7 @@
+{
+  "name": "vibemap-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}

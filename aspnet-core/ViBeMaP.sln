@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViBeMaP.Api", "ViBeMaP.Api\ViBeMaP.Api.csproj", "{41710FCC-9EB9-446B-8E95-8FDD56DDB4CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViBeMaP.DataAccess", "ViBeMaP.DataAccess\ViBeMaP.DataAccess.csproj", "{7841797C-BA8A-4A08-83B3-70BE04EC8908}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViBeMaP.Dto", "ViBeMaP.Dto\ViBeMaP.Dto.csproj", "{A01DBD7E-E023-4920-B89F-745CC4E7A62E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViBeMaP.Model", "ViBeMaP.Model\ViBeMaP.Model.csproj", "{03E8838A-CA97-4FBB-85E2-08DD43C8F30B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VibeMaP.Service", "VibeMaP.Service\VibeMaP.Service.csproj", "{D93EBA15-AE64-4F20-98D5-F09A37303BCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViBeMaP.Utility", "ViBeMaP.Utility\ViBeMaP.Utility.csproj", "{A27DD6E9-3EF5-46CC-83E4-1EE5F18D837D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41710FCC-9EB9-446B-8E95-8FDD56DDB4CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41710FCC-9EB9-446B-8E95-8FDD56DDB4CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41710FCC-9EB9-446B-8E95-8FDD56DDB4CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41710FCC-9EB9-446B-8E95-8FDD56DDB4CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7841797C-BA8A-4A08-83B3-70BE04EC8908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7841797C-BA8A-4A08-83B3-70BE04EC8908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7841797C-BA8A-4A08-83B3-70BE04EC8908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7841797C-BA8A-4A08-83B3-70BE04EC8908}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A01DBD7E-E023-4920-B89F-745CC4E7A62E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A01DBD7E-E023-4920-B89F-745CC4E7A62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A01DBD7E-E023-4920-B89F-745CC4E7A62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A01DBD7E-E023-4920-B89F-745CC4E7A62E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03E8838A-CA97-4FBB-85E2-08DD43C8F30B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E8838A-CA97-4FBB-85E2-08DD43C8F30B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E8838A-CA97-4FBB-85E2-08DD43C8F30B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E8838A-CA97-4FBB-85E2-08DD43C8F30B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D93EBA15-AE64-4F20-98D5-F09A37303BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D93EBA15-AE64-4F20-98D5-F09A37303BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D93EBA15-AE64-4F20-98D5-F09A37303BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D93EBA15-AE64-4F20-98D5-F09A37303BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A27DD6E9-3EF5-46CC-83E4-1EE5F18D837D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A27DD6E9-3EF5-46CC-83E4-1EE5F18D837D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A27DD6E9-3EF5-46CC-83E4-1EE5F18D837D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A27DD6E9-3EF5-46CC-83E4-1EE5F18D837D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A04C77D8-5760-442B-8630-E8AEC4A4D94E}
+	EndGlobalSection
+EndGlobal
